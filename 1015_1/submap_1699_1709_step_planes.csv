@@ -1,0 +1,2 @@
+plane_id,num_points,cx,cy,cz,nx,ny,nz,d,chosen_patch_id,gap_median,xy_dist_to_patch,accepted,decision_reason
+0,358,-0.0803816,3.59345,2.12322,-0.0646217,0.02447,0.99761,-2.21127,-1,-1,-1,0,rejected_cz_over_limit
